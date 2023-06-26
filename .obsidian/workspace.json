@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "线性代数/线性代数-知识点-1.md",
+                "file": "Linear_Algebra/Linear Algebra-知识点-1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Linear_Algebra/Linear Algebra-知识点-1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Linear_Algebra/Linear Algebra-知识点-1.md"
               }
             }
           }
@@ -113,14 +113,14 @@
   },
   "active": "dbb5caf7e2feb964",
   "lastOpenFiles": [
-    "线性代数/README.md",
-    "线性代数/线性代数-知识点-1.md",
-    "线性代数/线性代数-例题-1.md",
-    "线性代数/线性代数-知识点-1.assets/image-20230626170206742.png",
-    "线性代数/线性代数-知识点-1.assets",
-    "《线性代数》高清教学视频.md",
+    "Linear_Algebra/Linear Algebra-例题-1.md",
     "README.md",
-    "线性代数",
+    "Linear_Algebra/README.md",
+    "Linear_Algebra/Linear Algebra-知识点-1.md",
+    "Linear_Algebra/Linear Algebra-知识点-1.assets/image-20230626170206742.png",
+    "Linear_Algebra/Linear Algebra-知识点-1.assets",
+    "《线性代数》高清教学视频.md",
+    "Linear_Algebra",
     "update.bat",
     "1.md",
     "learn_english",
