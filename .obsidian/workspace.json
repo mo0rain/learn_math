@@ -11,8 +11,13 @@
             "id": "4fbf7d5cc4e91e30",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "线性代数/线性代数-1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "线性代数/线性代数-1.md"
+              }
             }
           }
         ]
@@ -92,8 +99,9 @@
   },
   "active": "4fbf7d5cc4e91e30",
   "lastOpenFiles": [
+    "线性代数",
     "update.bat",
-    "未命名.md",
+    "线性代数/线性代数-1.md",
     "README.md",
     "1.md",
     "learn_english",
