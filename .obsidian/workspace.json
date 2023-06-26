@@ -13,6 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "线性代数/线性代数-知识点-1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbb5caf7e2feb964",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "线性代数/README.md",
                 "mode": "source",
                 "backlinks": false,
@@ -79,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "线性代数/README.md"
+                "file": "线性代数/线性代数-知识点-1.md"
               }
             }
           }
@@ -99,10 +112,13 @@
   },
   "active": "7e1ec67874caa33c",
   "lastOpenFiles": [
-    "《线性代数》高清教学视频.md",
     "线性代数/README.md",
+    "线性代数/线性代数-知识点-1.md",
+    "线性代数/线性代数-例题-1.md",
+    "线性代数/线性代数-知识点-1.assets/image-20230626170206742.png",
+    "线性代数/线性代数-知识点-1.assets",
+    "《线性代数》高清教学视频.md",
     "README.md",
-    "线性代数/线性代数-1.md",
     "线性代数",
     "update.bat",
     "1.md",
@@ -128,7 +144,6 @@
     "“安洵杯”全国精英赛——SYCTF2023.md",
     "FLAG-TODO-List.md",
     "rsa原理分析.md",
-    "nssctf-1.md",
     "实战-打击违法网站.assets/image-20230414084003892.png",
     "实战-打击违法网站.assets/image-20230414083950990.png",
     "实战-打击违法网站.assets/image-20230414083941853.png",
@@ -139,7 +154,6 @@
     "2023医疗省赛-wp.assets/image-20230413162428527.png",
     "2023医疗省赛-wp.assets/image-20230413160921277.png",
     "2023医疗省赛-wp.assets/image-20230413160907133.png",
-    "2023医疗省赛-wp.assets/image-20230413155949596.png",
     "未命名 1.canvas",
     "2023医疗省赛-wp.assets",
     "2023无糖-2023斟茶王者巅峰挑战赛-wp.assets",
