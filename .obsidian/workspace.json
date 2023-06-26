@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "线性代数/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "线性代数/线性代数-知识点-1.md"
+                "file": "README.md"
               }
             }
           }
@@ -110,7 +111,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7e1ec67874caa33c",
+  "active": "dbb5caf7e2feb964",
   "lastOpenFiles": [
     "线性代数/README.md",
     "线性代数/线性代数-知识点-1.md",
