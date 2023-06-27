@@ -1,6 +1,6 @@
 # learn_math
 
-记录下数学学习的笔记，包括但不限于(线性代数，密码学，考研数学等等)
+记录下数学学习的笔记，包括但不限于(Linear Algebra，Cryptography，Postgraduate Mathematics等等)
 
 
 
