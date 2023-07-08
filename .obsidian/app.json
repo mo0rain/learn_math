@@ -1,6 +1,6 @@
 {
   "showLineNumber": true,
-  "attachmentFolderPath": "./例题-1.assets",
+  "attachmentFolderPath": "./README.assets",
   "promptDelete": false,
   "pdfExportSettings": {
     "includeName": false,
@@ -10,5 +10,6 @@
     "downscalePercent": 100
   },
   "focusNewTab": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "readableLineLength": false
 }
