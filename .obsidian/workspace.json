@@ -23,10 +23,25 @@
           {
             "id": "e6d11bd80885cd33",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cryptography/RSA.md",
+                "file": "Cryptography/RSA/RSA.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ebf387ecbb8b51c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cryptography/RSA/例题-1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cryptography/RSA.md"
+                "file": "Cryptography/RSA/例题-1.md"
               }
             }
           }
@@ -111,11 +126,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e6d11bd80885cd33",
+  "active": "ebf387ecbb8b51c4",
   "lastOpenFiles": [
+    "Cryptography/RSA/RSA.md",
+    "Cryptography/RSA/例题-1.md",
+    "README.md",
+    "Cryptography/RSA",
     "Cryptography/README.md",
     "Linear_Algebra/Linear Algebra-知识点-1.md",
-    "Cryptography/RSA.md",
     "Others/kerberos认证.md",
     "Cryptography/ECDSA.md",
     "Linear_Algebra/Linear Algebra-例题-1.md",
@@ -137,7 +155,6 @@
     "Cryptography/tools/imgs",
     "Cryptography/tools/openssl.md",
     "Cryptography/tools",
-    "README.md",
     "Others",
     "Cryptography",
     "Linear_Algebra/Linear Algebra-知识点-1.assets/image-20230628000536913.png",
@@ -156,10 +173,8 @@
     "1.md",
     "learn_english",
     "2023.3.16.md",
-    "kerberos认证.md",
     "未命名.canvas",
     "实战-打击违法网站.assets",
-    "未命名 1.canvas",
-    "2023医疗省赛-wp.assets"
+    "未命名 1.canvas"
   ]
 }
